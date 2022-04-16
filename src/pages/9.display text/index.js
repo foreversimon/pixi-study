@@ -12,8 +12,7 @@ export default {
     <h2>9.display text</h2>
     <div id="pixi"></div>
     <a href="#/8">上一页</a>
-    
-    <div>下一章是制作游戏, 所以新开一个项目</div>
+    <a href="#/10">上一页</a>
   `,
   fn () {
     const renderer = autoDetectRenderer({

@@ -8,6 +8,7 @@ import F0 from './pages/6.game loop'
 import G0 from './pages/7.boundary'
 import H0 from './pages/8.making shapes'
 import J0 from './pages/9.display text'
+import K0 from './pages/10.mark game'
 
 const router = new Router({
   el: document.querySelector('#app'),
@@ -20,6 +21,7 @@ const router = new Router({
     F0,
     G0,
     H0,
-    J0
+    J0,
+    K0
   ]
 })
