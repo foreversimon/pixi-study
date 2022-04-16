@@ -7,6 +7,7 @@ import E0 from './pages/5.Texture Atlas'
 import F0 from './pages/6.game loop'
 import G0 from './pages/7.boundary'
 import H0 from './pages/8.making shapes'
+import J0 from './pages/9.display text'
 
 const router = new Router({
   el: document.querySelector('#app'),
@@ -18,6 +19,7 @@ const router = new Router({
     E0,
     F0,
     G0,
-    H0
+    H0,
+    J0
   ]
 })
