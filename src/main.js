@@ -9,6 +9,7 @@ import G0 from './pages/7.boundary'
 import H0 from './pages/8.making shapes'
 import J0 from './pages/9.display text'
 import K0 from './pages/10.mark game'
+import L0 from './pages/11.anime sprite'
 
 const router = new Router({
   el: document.querySelector('#app'),
@@ -22,6 +23,7 @@ const router = new Router({
     G0,
     H0,
     J0,
-    K0
+    K0,
+    L0
   ]
 })

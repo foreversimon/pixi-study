@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@pixi/animate": "^2.0.0",
     "pixi.js": "^6.3.0"
   },
   "devDependencies": {
